@@ -6,6 +6,7 @@ def display_board(board)
   row2 = " #{board[3]} | #{board[4]} | #{board[5]} ";
   row3 = " #{board[6]} | #{board[7]} | #{board[8]} ";
   row_divider = "-----------";
+  
   puts row1;
   puts row_divider;
   puts row2;
